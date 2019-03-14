@@ -5,8 +5,8 @@
    Tutorial 11
    Case Problem 1
 
-   Author: 
-   Date:   
+   Author: Millione Johnson
+   Date: 3/13/19  
    
    Filename: bw_review.js
 	
@@ -34,6 +34,12 @@
 
 */
 
+window.onload = init();
+
+init() {
+      var stars;
+      
+}
 
 
   
